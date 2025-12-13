@@ -14,7 +14,7 @@ Developed by : **ESHWER M**
 
 Reg no : **212224040086**
 
-### Client
+### Server
 ```python
 import socket
 s = socket.socket()
@@ -36,7 +36,7 @@ while True:
 
 ```
 
-### Server
+### Client
 ```python
 import socket
 s = socket.socket()
